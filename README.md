@@ -63,36 +63,11 @@ I have also strong technical understanding of various machine learning algorithm
  </a>
 
 
-- Staking
-<table>
-    <thead align="center">
-        <tr>
-            <td>Pocoland</td>
-            <td>Nafter</td>
-            <td>IDOL</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://pocoland.com/staking">
-                <img src="./images/staking.png" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="https://staking.nafter.io">
-                <img src="./images/staking-nafter.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://farms.idol.land/">
-                <img src="./images/staking-idol.png" width="200">
-            </a>
-        </td> 
-    </tr>  
-</table>
-  
-
-
+#### Staking
+##### [Nafter](https://staking.nafter.io)
+<a href="https://pocoland.com/nft-market">
+      <img src="./images/staking-nafter.png" >
+ </a>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
                        .blockchainexpertbc" />
 <img align="right" src="https://img.shields.io/github/followers/blockchainexpertbc?label=Follow&style=social" />
