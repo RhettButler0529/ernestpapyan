@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/ernestpapyan/ernestpapyan/main/githublogo.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/ernestpapyan/ernestpapyan/blob/main/githublogo.jpg" style = "width: -webkit-fill-available;"/>
 </p>
   
 ### DeFi Experiences
