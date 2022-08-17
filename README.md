@@ -69,7 +69,7 @@ I have also strong technical understanding of various machine learning algorithm
       <img src="./images/staking-nafter.png" >
  </a>  
  ##### Defi, NFT Staking, NFT Marketplace
- 
+ <div>
   <a href='https://dex.treedefi.com/' target='_blank'>
   <img src='./project/treedefi_dex.png' width='32%'></img>
   </a>
@@ -79,3 +79,4 @@ I have also strong technical understanding of various machine learning algorithm
   <a href='https://nft.treedefi.com/merchandise' target='_blank'>
   <img src='./project/treedefi_nftstaking.png' width='32%'></img>
   </a>
+</div>
