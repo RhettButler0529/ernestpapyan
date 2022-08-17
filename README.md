@@ -56,33 +56,12 @@ I have also strong technical understanding of various machine learning algorithm
      <img src="./images/Funkiverse.png">
  </a>
 
-- NFT Marketplaces
-<table>
-    <thead align="center">
-        <tr>
-            <td>Pocoland</td>
-            <td>Bayc</td>
-            <td>Ghost</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://pocoland.com/nft-market">
-                <img src="./images/pocoland.png" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://boredapeyachtclub.com/#/home">
-                <img src="./images/marketplace-bayc.png" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://ghostmarket.io/">
-                <img src="./images/marketplace-ghostmarket.png" width="200">
-            </a>
-        </td> 
-    </tr>
-</table>
+#### NFT Marketplaces
+##### Pocoland
+<a href="https://pocoland.com/nft-market">
+     <img src="./images/pocoland.png" />
+ </a>
+
 
 - Staking
 <table>
