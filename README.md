@@ -1,4 +1,4 @@
-# Hi 👋 I am Dragan Leonidov
+
  ## A passionate blockchain & fullstack developer
 ![profile views](./doc/profileview.svg)
 
