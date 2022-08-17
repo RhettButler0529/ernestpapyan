@@ -67,9 +67,4 @@ I have also strong technical understanding of various machine learning algorithm
 ##### [Nafter](https://staking.nafter.io)
 <a href="https://staking.nafter.io">
       <img src="./images/staking-nafter.png" >
- </a>
-
-
-
-
-  
+ </a>  
