@@ -88,7 +88,7 @@ I have also strong technical understanding of various machine learning algorithm
 </a>
 
 - [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
-- [Main Mint Frontend](https://github.com/goldenstar111/EggPlant-NFT-Mint-App)
+- [Main Mint Frontend](https://github.com/ernestpapyan/EggPlant-NFT-Mint-App)
 
 ### [Scorpfion Dragon NFT Marketplace on BSC](https://scorpfionnft.netlify.app/)
 ---
