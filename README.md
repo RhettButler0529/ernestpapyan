@@ -51,32 +51,9 @@ I have also strong technical understanding of various machine learning algorithm
 
 ### DeFi Experiences
 - NFT Mint Dapps
-<table>
-    <thead align="center">
-        <tr>
-            <td>Cosmic Paws</td>
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://cosmicpaws.io/">
-                <img src="./images/minting-dog.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
-            </a>
-        </td>           
-        <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
-            </a>
-        </td>             
-    </tr>
-</table>
+ <a href="https://funkifoxes.com/">
+     <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+ </a>
 
 - NFT Marketplaces
 <table>
