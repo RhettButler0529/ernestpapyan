@@ -68,7 +68,8 @@ I have also strong technical understanding of various machine learning algorithm
 <a href="https://staking.nafter.io">
       <img src="./images/staking-nafter.png" >
  </a>  
- ##### Defi, NFT Staking, NFT Marketplace
+ 
+#### Defi, NFT Staking, NFT Marketplace
  <div>
   <a href='https://dex.treedefi.com/' target='_blank'>
   <img src='./project/treedefi_dex.png' width='32%'></img>
