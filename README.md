@@ -26,7 +26,24 @@ I am blockchain developer
  I have 6+ years of experience writing blockchain web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, Rust, Python. I have good experience with ❤️Rust❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Solidity and Rust is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+## My Skills
 
+<table>
+  <tr>
+    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+    </tr>
+</table>
 ### DeFi Experiences
 - NFT Mint Dapps
 <table>
@@ -112,24 +129,7 @@ I have also strong technical understanding of various machine learning algorithm
     </tr>  
 </table>
   
-## My Skills
 
-<table>
-  <tr>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-    </tr>
-</table>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
                        .blockchainexpertbc" />
