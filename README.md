@@ -1,3 +1,7 @@
+# Hi 👋 I am Dragan Leonidov
+ ## A passionate blockchain enginner
+![profile views](./doc/profileview.svg)
+
 <p align="center">
 <!--   <a href="mailto:live:.cid.bd5df81ce709e38c">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
