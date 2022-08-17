@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/blockchainexpertbc/blockchainexpertbc/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="./github.logo" style = "width: -webkit-fill-available;"/>
 </p>
   
 ### DeFi Experiences
