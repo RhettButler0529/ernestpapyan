@@ -71,41 +71,6 @@ I have also strong technical understanding of various machine learning algorithm
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
                        .blockchainexpertbc" />
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-  ### DApps & Online Betting Website
-  <br />
-
-  ### Crypto Trading Platforms & Bots
-  <br />
-
-  ### AR & VR Web and Mobile application
-  <br />
-
-  ### Video Conference Web & Mobile application
-  <br />
-
-</div>
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=blockchainexpertbc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainexpertbc&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=blockchainexpertbc&&style=flat-square)  
   
