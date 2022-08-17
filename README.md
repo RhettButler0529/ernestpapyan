@@ -70,12 +70,6 @@ I have also strong technical understanding of various machine learning algorithm
  </a>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
                        .blockchainexpertbc" />
-<img align="right" src="https://img.shields.io/github/followers/blockchainexpertbc?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=blockchainexpertbc&theme=github&count_private=true" />
-
-
-
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
