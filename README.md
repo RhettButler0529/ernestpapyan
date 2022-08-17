@@ -44,7 +44,7 @@ I have also strong technical understanding of various machine learning algorithm
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     </tr>
 </table>
-### Git Work
+## Git Work
 ![Review](./doc/review.svg)
 ### DeFi Experiences
 - NFT Mint Dapps
