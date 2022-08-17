@@ -13,7 +13,18 @@
 <p align="center">
   <img align="center" src="./githublogo.jpg" style = "width: -webkit-fill-available;"/>
 </p>
-  
+ ## A passionate blockchain enginner
+![profile views](./doc/profileview.svg)
+
+I am currently working remotely.
+
+❤️ **I'm passionate about:**
+
+I am blockchain developer
+ I have 6+ years of experience writing blockchain web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, Rust, Python. I have good experience with ❤️Rust❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Solidity and Rust is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
+
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+
 ### DeFi Experiences
 - NFT Mint Dapps
 <table>
