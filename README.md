@@ -53,7 +53,7 @@ I have also strong technical understanding of various machine learning algorithm
 - NFT Mint Dapps
 #### [Funkiverse](https://funkifoxes.com/)
  <a href="https://funkifoxes.com/">
-     <img src=".images/Funkiverse.png">
+     <img src="./images/Funkiverse.png">
  </a>
 
 - NFT Marketplaces
