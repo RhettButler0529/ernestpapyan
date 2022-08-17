@@ -51,8 +51,9 @@ I have also strong technical understanding of various machine learning algorithm
 
 ### DeFi Experiences
 - NFT Mint Dapps
+#### [Funkiverse](https://funkifoxes.com/)
  <a href="https://funkifoxes.com/">
-     <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+     <img src=".images/Funkiverse.png">
  </a>
 
 - NFT Marketplaces
