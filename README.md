@@ -17,9 +17,6 @@
 <p align="center">
   <img align="center" src="./githublogo.jpg" style = "width: -webkit-fill-available;"/>
 </p>
-# Hi 👋 I am Dragan Leonidov
- ## A passionate blockchain enginner
-![profile views](./doc/profileview.svg)
 
 I am currently working remotely.
 
