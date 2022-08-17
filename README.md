@@ -96,8 +96,8 @@ I have also strong technical understanding of various machine learning algorithm
 <img src='./project/scorpfion_nftmarketplace.png'></img>
 </a>
 
-- [Marketplace Contract](https://github.com/goldenstar111/Scorpfion-NFT-Contract)
+- [Marketplace Contract](https://github.com/ernestpapyan/marketplace_contract_
 - [Marketplace Subgraph]()
-- [Marketplace Backend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/backend)
+- [Marketplace Backend](https://github.com/ernestpapyan/nearnauts-subgraph)
 - [Marketplace indexer]()
-- [Marketplace Main Frontend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/frontend)
+- [Marketplace Main Frontend](https://github.com/ernestpapyan/marketplace-front-end)
