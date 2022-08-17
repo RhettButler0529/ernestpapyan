@@ -68,8 +68,7 @@ I have also strong technical understanding of various machine learning algorithm
 <a href="https://staking.nafter.io">
       <img src="./images/staking-nafter.png" >
  </a>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
-                       .blockchainexpertbc" />
+
 
 
 
