@@ -57,7 +57,7 @@ I have also strong technical understanding of various machine learning algorithm
  </a>
 
 #### NFT Marketplaces
-##### Pocoland
+##### [Pocoland](https://pocoland.com/nft-market)
 <a href="https://pocoland.com/nft-market">
      <img src="./images/pocoland.png" />
  </a>
