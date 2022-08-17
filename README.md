@@ -50,8 +50,8 @@ I have also strong technical understanding of various machine learning algorithm
 ![Review](./doc/review.svg)
 
 ### DeFi Experiences
-- NFT Mint Dapps
-#### [Funkiverse](https://funkifoxes.com/)
+#### NFT Mint Dapps
+##### [Funkiverse](https://funkifoxes.com/)
  <a href="https://funkifoxes.com/">
      <img src="./images/Funkiverse.png">
  </a>
