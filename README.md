@@ -81,8 +81,8 @@ I have also strong technical understanding of various machine learning algorithm
   <img src='./project/treedefi_nftstaking.png' width='32%'></img>
   </a>
 </div>
+
 ##### [EggPlant NFT Mint on Ethereum](https://eggplantnftmint.netlify.app/)
----
 <a href='https://eggplantnftmint.netlify.app/'>
 <img src='./project/eggplant_mint.png'></img>
 </a>
