@@ -81,3 +81,23 @@ I have also strong technical understanding of various machine learning algorithm
   <img src='./project/treedefi_nftstaking.png' width='32%'></img>
   </a>
 </div>
+### [EggPlant NFT Mint on Ethereum](https://eggplantnftmint.netlify.app/)
+---
+<a href='https://eggplantnftmint.netlify.app/'>
+<img src='./project/eggplant_mint.png'></img>
+</a>
+
+- [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
+- [Main Mint Frontend](https://github.com/goldenstar111/EggPlant-NFT-Mint-App)
+
+### [Scorpfion Dragon NFT Marketplace on BSC](https://scorpfionnft.netlify.app/)
+---
+<a href='https://scorpfionnft.netlify.app/'>
+<img src='./project/scorpfion_nftmarketplace.png'></img>
+</a>
+
+- [Marketplace Contract](https://github.com/goldenstar111/Scorpfion-NFT-Contract)
+- [Marketplace Subgraph]()
+- [Marketplace Backend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/backend)
+- [Marketplace indexer]()
+- [Marketplace Main Frontend](https://github.com/goldenstar111/Scorpfion-NFT-Marketplace-on-BSC/tree/main/frontend)
